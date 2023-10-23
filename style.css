@@ -106,3 +106,6 @@ article {
     height: 100%;
     transition: .3s ease-in-out all;
 }
+button:hover{
+    background-color: #8b5cf6;
+}
